@@ -1,5 +1,11 @@
 # Leyda Hughes - Research Archive
 
+#### June 8 - 21 2021 : Screen reader, Usability Test - Facility Locator
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc), Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us*
+- Number of participants: 16
+- [Research folder]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study)
+- List of keywords: screenreader, assistive technology, voice over, blind veterants. 
+
 #### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 41
