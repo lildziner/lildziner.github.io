@@ -32,7 +32,7 @@
 #### August 20-28, 2020 : Vet Center - Outreach Specialist - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews/research-findings.md)
 
 #### July 13-16, 2020: Facility Locator - Urgent Care Mashup (usability test)
 *Ad Hoc: VSA Facilities, Leyda Hughes*
