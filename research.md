@@ -27,7 +27,7 @@
 #### September 30 - October 16, 2020 : Vet Center - Veteran Client - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 15 participants (8 clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
+- [Research folder]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 #### August 20-28, 2020 : Vet Center - Outreach Specialist - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
