@@ -1,4 +1,4 @@
-# Leyda Hughes - Research Archive
+# Leyda Vega Hughes - Research Archive
 
 #### June 8 - 21 2021 : Screen reader, Usability Test - Facility Locator
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc), Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us*
