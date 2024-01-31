@@ -9,19 +9,19 @@
 #### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 41
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/taxonomy-study/research-findings.md)
 - List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 #### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests/research-findings.md)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### December 9-16, 2020: Vet Center Product - Usability V1
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 9 (All Veterans, 2 Vet Center clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests/research-findings.md)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### September 30 - October 16, 2020 : Vet Center - Veteran Client - Discovery Interviews
