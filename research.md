@@ -1,5 +1,7 @@
 # Leyda Vega Hughes - Research Archive
 
+Research projects that I led while at Ad Hoc working on VA.gov (U.S. Department of Veterans Affairs)
+
 #### June 8 - 21 2021 : Screen reader, Usability Test - Facility Locator
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc), Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us*
 - Number of participants: 16
